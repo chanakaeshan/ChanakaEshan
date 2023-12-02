@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="6442769706590126401" data-share-method="host" data-aspect-ratio="0.915663" data-width="100%"><a href="https://tenor.com/view/garfield-hi-there-waving-friendly-cats-gif-6442769706590126401">Garfield Hi There GIF</a>from <a href="https://tenor.com/search/garfield-gifs">Garfield GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
 <div align="center">
