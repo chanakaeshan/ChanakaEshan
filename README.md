@@ -26,7 +26,7 @@
 
 <div align='center'>
   <samp>
-  <p> Simple right? Yeah that's me! | I'm Chanaka Eshan from Sri Lanka🤍</p> </br>
+  <p> I'm Chanaka Eshan from Sri Lanka | Student At University of Plymouth | BSc (Hons) In Software Engineering</p> </br>
   </samp>
 </div>
 
@@ -147,21 +147,7 @@
 ## Github Stats
 -->
 
-</br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasathTheekshana&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
-</div> 
-
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasathTheekshana&theme=omni&hide_border=true" align="center" />
-</div>  
-
-
-
-<!-- &layout=compact -->
-
-<br/>  
 
 
 <!-- <div align="center">
