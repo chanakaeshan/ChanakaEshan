@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=WasathTheekshana&icon=2&color=11" align="right" />
-</div>  
+
 
 <div align="center">
   <img src="https://github.com/ChanakaEshan/readme-img/blob/main/final.gif?raw=true" align="center" style="width: 100%" />
@@ -15,11 +13,11 @@
   
    <p align="center">
      <samp>
-       <a href="https://linkedin.com/in/wasatht" target="_blank">LinkedIn</a> .
-       <a href="https://www.wasath.me" target="_blank">Portfolio</a> .
-       <a href="https://instagram.com/wasath.theekshana" target="_blank">Reels</a> .
-       <a href="https://www.youtube.com/channel/UCyp6WVufUctZXAtP9D1Keuw" target="_blank">Youtube</a> .
-       <a href="https://discordapp.com/users/Wasaaa#0743">Discord</a> 
+       <a href="https://linkedin.com/in/chanakaeshan" target="_blank">LinkedIn</a> .
+       <a href="https://www.eshan.co" target="_blank">Portfolio</a> .
+       <a href="https://instagram.com/chanakaeshan" target="_blank">Instagram</a> .
+       <a href="https://https://www.youtube.com/channel/UCgLkEAmqTbsNqFXYA4j991g" target="_blank">Youtube</a> .
+       <a href="https://discordapp.com/users/chanakaeshan">Discord</a> 
      </samp>
     </p>
 </div>
