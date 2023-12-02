@@ -29,9 +29,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <p> I'm Chanaka Eshan from Sri Lanka | Student At University of Plymouth | BSc (Hons) In Software Engineering</p> </br>
   </samp>
 </div>
-* 🌍  I'm based in Colombo
-* 🖥️  See my portfolio at [eshan.co](http://eshan.co)
-* ✉️  You can contact me at [chanueshan291@gmail.com](mailto:chanueshan291@gmail.com)
+✉️  You can contact me at <link chanakaeshaninfo@gmail.om>Email 📩</link>
 
 <!--
 
