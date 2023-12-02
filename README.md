@@ -1,7 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chanaka Eshan
-=====================================================================================================================================
-
-Full-Stack Developer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
 <div align="center">
@@ -32,6 +29,9 @@ Full-Stack Developer
   <p> I'm Chanaka Eshan from Sri Lanka | Student At University of Plymouth | BSc (Hons) In Software Engineering</p> </br>
   </samp>
 </div>
+* 🌍  I'm based in Colombo
+* 🖥️  See my portfolio at [eshan.co](http://eshan.co)
+* ✉️  You can contact me at [chanueshan291@gmail.com](mailto:chanueshan291@gmail.com)
 
 <!--
 
