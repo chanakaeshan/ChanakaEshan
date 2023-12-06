@@ -1,10 +1,9 @@
 Hi!👋
 
-![Banner](/profile/banner.png)
 <div align="center">
   <img src="https://github.com/ChanakaEshan/readme-img/blob/main/final.gif?raw=true" align="center" style="width: 100%" />
 </div>  
-
+![Banner](/profile/banner.png)
   </br></br>
 <div align="center">
   
