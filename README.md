@@ -12,7 +12,7 @@ Hi!👋
    <p align="center">
      <samp>
        <a href="https://linkedin.com/in/chanakaeshan" target="_blank">LinkedIn</a> .
-       <a href="https://chanakae.netlify.app/)" target="_blank">Portfolio</a> .
+       <a href="https://chanakae.netlify.app" target="_blank">Portfolio</a> .
        <a href="https://instagram.com/chanakaeshan" target="_blank">Instagram</a> .
        <a href="https://https://www.youtube.com/@chanakaeshan" target="_blank">Youtube</a> .
        <a href="https://discordapp.com/users/chanakaeshan">Discord</a> 
