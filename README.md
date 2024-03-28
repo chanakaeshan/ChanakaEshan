@@ -15,7 +15,7 @@ Hi!👋
        <a href="https://chanakae.netlify.app" target="_blank">Portfolio</a> .
        <a href="https://instagram.com/chanakaeshan" target="_blank">Instagram</a> .
        <a href="https://www.youtube.com/channel/UCgLkEAmqTbsNqFXYA4j991g" target="_blank">Youtube</a> .
-       <a href="https://discordapp.com/users/chanakaeshan">Discord</a> 
+       <a href="https://discordapp.com/users/chanakaeshan" _blank>Discord</a> 
      </samp>
     </p>
 </div>
