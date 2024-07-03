@@ -33,7 +33,7 @@ Hi!👋
 
 
 
-<!--
+
 
 ### <div align="center">I'm Wasath, a full-time full-stack freelance developer 👨‍💻 </div>  
   
@@ -186,4 +186,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
