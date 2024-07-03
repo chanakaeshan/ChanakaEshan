@@ -68,30 +68,7 @@ Hi!👋
 
 
 
-
-## Github Stats
-
-
-
-
-
-
-
-
-
-<br/>  
-
-
-
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=chanakaeshan&icon=2&color=11" align="center" />
-</div>  
-
-
-<br/>  
-
-
-<br />
+![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
 
 
 
