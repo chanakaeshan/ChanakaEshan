@@ -42,7 +42,7 @@
 - 🌱 I’m currently learning DevOps and Kubernetes
   
 
-- 📝 I frequently write pieces about [Dev](https://dev.to/chanakaeshan)
+- 📝 I frequently write pieces about [Dev](https://dev.to/chanakaeshan) | [Medium](https://medium.com/@chanakaeshan)
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies
