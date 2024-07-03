@@ -34,14 +34,12 @@ Hi!👋
 
 
 
-
-### <div align="center">I'm Wasath, a full-time full-stack freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes
+- 🌱 I’m currently learning DevOps and Kubernetes
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -49,9 +47,9 @@ Hi!👋
 
 - ⚡ Fun fact: I use tabs over spaces  
   
--->
 
-<!--
+
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -110,9 +108,9 @@ Hi!👋
 
 <br/>  
 
--->
 
-<!--
+
+
 ## Connect with me
 -->  
 
@@ -173,7 +171,7 @@ Hi!👋
 
 <br />
 
-<!--
+
 **chanakaeshan/ChanakaEshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
