@@ -62,14 +62,14 @@
 
 
 
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,dart,flutter,c,angular,swift,ts,vite,cs,dotnet,aws,gcp,azure,mongodb,git,github,express,tailwind,bootstrap,git,kubernetes,docker,mysql,firebase,linux,idea,eclipse,stackoverflow,androidstudio,apple,vscode,visualstudio,figma,discord&theme=dark&perline=13"/>
  </a>
 </p>
 
 
-<p align="center">
+
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
@@ -80,7 +80,7 @@
 
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanakaeshan&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-</p>
+
 
 
 
