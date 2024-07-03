@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,dart,flutter,c,angular,swift,ts,vite,cs,dotnet,aws,gcp,azure,MongoDB,git,github,express,tailwind,bootstrap,git,kubernetes,docker,mysql,firebase,linux,idea,eclipse,StackOverflow,androidstudio,apple,vscode,visualstudio,figma,discord&theme=dark&perline=13"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,dart,flutter,c,angular,swift,ts,vite,cs,dotnet,aws,gcp,azure,mongodb,git,github,express,tailwind,bootstrap,git,kubernetes,docker,mysql,firebase,linux,idea,eclipse,StackOverflow,androidstudio,apple,vscode,visualstudio,figma,discord&theme=dark&perline=13"/>
  </a>
 </p>
 
