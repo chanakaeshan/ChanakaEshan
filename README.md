@@ -68,7 +68,7 @@ Hi!👋
 
 
 
-![Top Langs](https://streak-stats.demolab.com?user=OnaliyVinukiy&theme=highcontrast&hide_border=true)
+![Top Langs](https://streak-stats.demolab.com?user=chanakaeshan&theme=highcontrast&hide_border=true)
 
 
 
