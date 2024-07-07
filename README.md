@@ -45,7 +45,7 @@
 - 📝 I frequently write pieces about [Dev](https://dev.to/chanakaeshan) | [Medium](https://medium.com/@chanakaeshan)
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to MERN stack and related technologies | Azure DevOps | AWS
   
 
 - 📫 How to reach me chanueshan291@gmail.com
