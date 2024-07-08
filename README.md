@@ -1,8 +1,9 @@
 ### <div align="center">I'm Chanaka Eshan, a full-stack freelance developer 👨‍💻 </div>  
 
 <div align="center">
-  <div align="center" style="background-image: url('https://www.bing.com/images/search?view=detailV2&ccid=JkcYOovX&id=E06431B0B5EB00EBB7E310A61B1C29E6AD24F8A4&thid=OIP.JkcYOovXGNijhryz145aHwHaEK&mediaurl=https%3a%2f%2fcdn.elegantthemes.com%2fblog%2fwp-content%2fuploads%2f2013%2f09%2fbg-7-full.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2647183a8bd718d8a386bcb3d78e5a1f%3frik%3dpPgkreYpHBumEA%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=background+images&simid=608001124625435903&FORM=IRPRST&ck=DADCB404221C28BC4F4C40E2BAD0DD0B&selectedIndex=18&itb=0&ajaxhist=0&ajaxserp=0'); background-size: cover; padding: 20px; border-radius: 10px;">
-  <img src="https://github.com/ChanakaEshan/readme-img/blob/main/final.gif?raw=true" align="center" style="width: 100%" />
+  <div align="center" style="background-image: url('https://github.com/chanakaeshan/ChanakaEshan/blob/main/banner.png?raw=true'); background-size: cover; padding: 20px; border-radius: 10px;">
+    <img src="https://github.com/ChanakaEshan/readme-img/blob/main/final.gif?raw=true" align="center" style="width: 100%" />
+  </div>  
 </div>  
   </br></br>
 <div align="center">
