@@ -1,6 +1,7 @@
 ### <div align="center">I'm Chanaka Eshan, a full-stack freelance developer 👨‍💻 </div>  
 
 <div align="center">
+  <div align="center" style="background-image: url('https://your-background-image-url.com'); background-size: cover; padding: 20px; border-radius: 10px;">
   <img src="https://github.com/ChanakaEshan/readme-img/blob/main/final.gif?raw=true" align="center" style="width: 100%" />
 </div>  
   </br></br>
@@ -48,7 +49,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies | Azure DevOps | AWS
   
 
-- 📫 How to reach me chanueshan291@gmail.com | [Chanaka Eshan](chanakaeshan.github.io/myweb)
+- 📫 How to reach me chanueshan291@gmail.com
   
 
 - ⚡ Fun fact: Talk is cheap. Show me the code.
