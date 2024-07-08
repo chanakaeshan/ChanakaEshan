@@ -11,7 +11,7 @@
   
    <p align="center">
      <samp>
-       <a href="https://linkedin.com/in/chanakaeshan" target="_blank">LinkedIn</a> .
+       <a href="https://linkedin.com/in/chanakaeshan" target="_blank" text-decoration="none">LinkedIn</a> .
        <a href="https://chanakaeshan.github.io/myweb" target="_blank">Portfolio</a> .
        <a href="https://instagram.com/chanakaeshan" target="_blank">Instagram</a> .
        <a href="https://www.youtube.com/channel/UCgLkEAmqTbsNqFXYA4j991g" target="_blank">Youtube</a> .
