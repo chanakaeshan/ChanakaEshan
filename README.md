@@ -1,4 +1,4 @@
-### <div align="center">I'm Chanaka Eshan, a full-time full-stack freelance developer 👨‍💻 </div>  
+### <div align="center">I'm Chanaka Eshan, a full-stack freelance developer 👨‍💻 </div>  
 
 <div align="center">
   <img src="https://github.com/ChanakaEshan/readme-img/blob/main/final.gif?raw=true" align="center" style="width: 100%" />
