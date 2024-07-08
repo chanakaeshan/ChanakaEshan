@@ -26,7 +26,7 @@
 
 <div align='center'>
   <samp>
-  <p> I'm Chanaka Eshan from Sri Lanka | Student At University of Plymouth | BSc (Hons) In Software Engineering</p> </br>
+  <p> I'm Chanaka Eshan from Sri Lanka | Student at University of Plymouth | BSc (Hons) In Software Engineering</p> </br>
   </samp>
 </div>
 
