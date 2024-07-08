@@ -12,7 +12,7 @@
    <p align="center">
      <samp>
        <a href="https://linkedin.com/in/chanakaeshan" target="_blank">LinkedIn</a> .
-       <a href="https://chanakae.netlify.app" target="_blank">Portfolio</a> .
+       <a href="https://chanakaeshan.github.io/myweb" target="_blank">Portfolio</a> .
        <a href="https://instagram.com/chanakaeshan" target="_blank">Instagram</a> .
        <a href="https://www.youtube.com/channel/UCgLkEAmqTbsNqFXYA4j991g" target="_blank">Youtube</a> .
        <a href="https://discordapp.com/users/chanakaeshan" target="_blank">Discord</a> 
@@ -48,7 +48,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies | Azure DevOps | AWS
   
 
-- 📫 How to reach me chanueshan291@gmail.com
+- 📫 How to reach me chanueshan291@gmail.com | [Chanaka Eshan](chanakaeshan.github.io/myweb)
   
 
 - ⚡ Fun fact: Talk is cheap. Show me the code.
