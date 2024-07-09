@@ -1,7 +1,7 @@
 ### <div align="center">I'm Chanaka Eshan, a full-stack freelance developer 👨‍💻 </div>  
 
 <div align="center">
-  <div align="center" style="background-image: url('https://github.com/chanakaeshan/ChanakaEshan/blob/main/banner.png?raw=true'); background-size: cover; padding: 20px; border-radius: 10px;">
+  <div align="center" style="background-image: url('https://github.com/chanakaeshan/ChanakaEshan/blob/main/banner.png'); background-size: cover; padding: 20px; border-radius: 10px;">
     <img src="https://github.com/ChanakaEshan/readme-img/blob/main/final.gif?raw=true" align="center" style="width: 100%" />
   </div>  
 </div>  
