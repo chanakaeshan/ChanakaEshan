@@ -1,12 +1,7 @@
 ## <div align="center">I'm Chanaka Eshan, a Full-Stack Developer 👨‍💻 </div>  
 
-<div align="center">
-  <div align="center" style="background-image: url('https://github.com/chanakaeshan/ChanakaEshan/blob/main/banner.png'); background-size: cover; padding: 20px; border-radius: 10px;">
-    <img src="https://github.com/ChanakaEshan/readme-img/blob/main/final.gif?raw=true" align="center" style="width: 100%" />
-  </div>  
-</div>  
-  </br></br>
-<div align="center">
+
+
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira++Code&duration=4500&pause=700&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome;I'm+Chanaka+Eshan;Software+Engineer;)](https://git.io/typing-svg)
 </div>
