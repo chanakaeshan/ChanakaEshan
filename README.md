@@ -84,7 +84,8 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1023272534717775952)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1023272534717775952)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
-<a font=Fira font-size=2px>© Chanaka Eshan 2024 | All Rights Reserved</a>
+<p style="font-family: 'Fira', sans-serif; font-size: 12px;">© Chanaka Eshan 2024 | All Rights Reserved</p>
+
 
 
 
