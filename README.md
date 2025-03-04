@@ -84,6 +84,8 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1023272534717775952)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1023272534717775952)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
+© Chanaka Eshan 2022 | All Rights Reserved
+
 
 
 
