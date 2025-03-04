@@ -85,7 +85,12 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1023272534717775952)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
 <p style="font-family: 'Fira', sans-serif; font-size: 1px;">© Chanaka Eshan 2022 | All Rights Reserved</p>
-
+<div align='center'>
+  <samp>
+  <p> I'm Chanaka Eshan from Sri Lanka <br>
+  Full-Stack Developer | MERN Stack | MEAN stack </p> </br>
+  </samp>
+</div>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
 
 
