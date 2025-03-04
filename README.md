@@ -86,6 +86,9 @@
 
 <p style="font-family: 'Fira', sans-serif; font-size: 12px;">© Chanaka Eshan 2024 | All Rights Reserved</p>
 
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
+
+
 
 
 
