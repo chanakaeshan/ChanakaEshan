@@ -87,7 +87,7 @@
 
 <div align='left'>
   <samp>
-  <p> © Chanaka Eshan 2022 | All Rights Reserved <br>
+  <p> © Chanaka Eshan 2023 | All Rights Reserved <br>
   </samp>
 </div>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
