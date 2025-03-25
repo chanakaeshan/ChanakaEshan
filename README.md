@@ -15,7 +15,7 @@
    <p align="center">
      <samp>
        <a href="https://linkedin.com/in/chanakaeshan" target="blank">LinkedIn</a> .
-       <a href="https://chanakaeshan.me" target="_blank">Portfolio</a> .
+       <a href="chanakaeshan.me" target="_blank">Portfolio</a> .
        <a href="https://instagram.com/chanakaeshan" target="_blank">Instagram</a> .
        <a href="https://www.youtube.com/channel/UCgLkEAmqTbsNqFXYA4j991g" target="_blank">Youtube</a> .
        <a href="https://discordapp.com/users/chanakaeshan](https://mvp.microsoft.com/en-US/studentambassadors/profile/6f7fce00-0a16-4939-8fcf-8124eb476750)" target="_blank">Microsoft Ambassador</a> .
