@@ -28,7 +28,7 @@
 
 <div align='center'>
   <samp>
-  <p> I'm Chanaka Eshan from Sri Lanka <br>
+  <p> I'm Chanaka Eshan from Sri Lanka. <br>
   Full-Stack Developer | MERN Stack | MEAN stack </p> </br>
   </samp>
 </div>
