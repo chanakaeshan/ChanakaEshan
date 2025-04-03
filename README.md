@@ -50,7 +50,7 @@
 - 📝 I frequently write pieces about [Dev](https://dev.to/chanakaeshan) | [Medium](https://medium.com/@chanakaeshan)
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies | Azure DevOps | AWS
+- ❓ Ask me about anything related to MERN/MEAN stack and related technologies | Azure DevOps | AWS
 
 
 - 🐋 I'm a Volunteer at Microsoft Student Ambassador [Chanaka Abeyrathne](https://mvp.microsoft.com/en-US/studentambassadors/profile/6f7fce00-0a16-4939-8fcf-8124eb476750)
