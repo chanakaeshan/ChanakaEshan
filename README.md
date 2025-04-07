@@ -44,7 +44,7 @@
 - 🔭 I’m currently working on
   
 
-- 🌱 I’m currently learning DevOps and Kubernetes
+- 🌱 I’m currently learning DevOps and Kubernetes.
   
 
 - 📝 I frequently write pieces about [Dev](https://dev.to/chanakaeshan) | [Medium](https://medium.com/@chanakaeshan)
