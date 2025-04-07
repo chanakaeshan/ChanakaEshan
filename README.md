@@ -59,7 +59,7 @@
 - 📫 How to reach me chanueshan291@gmail.com
   
 
-- ⚡ Fun fact: Talk is cheap. Show me the code.
+- ⚡ Fun fact: Talk is cheap, Show me the code.
   
 
 
