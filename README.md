@@ -72,7 +72,7 @@
 
 <p >
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,nextjs,dart,flutter,c,angular,laravel,swift,ts,vite,cs,dotnet,aws,gcp,azure,mongodb,git,github,express,tailwind,bootstrap,git,kubernetes,docker,mysql,firebase,postman,linux,idea,eclipse,stackoverflow,terraform,androidstudio,apple,devto,vscode,visualstudio,figma,discord&theme=dark&perline=15"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,nextjs,dart,flutter,c,angular,laravel,swift,ts,vite,cs,dotnet,pycharm,aws,tensorflow,gcp,azure,mongodb,git,github,express,tailwind,bootstrap,git,kubernetes,docker,mysql,firebase,postman,linux,idea,eclipse,stackoverflow,terraform,androidstudio,apple,devto,vscode,visualstudio,figma,discord,bash&theme=dark&perline=15"/>
  </a>
 </p>
 
