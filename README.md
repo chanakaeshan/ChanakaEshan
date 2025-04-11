@@ -1,4 +1,4 @@
-## <div align="center">I'm Chanaka Eshan, A Full-Stack Developer 👨‍💻 </div>  
+## <div align="center">I'm Chanaka Eshan, A Full-Stack Developer 👨‍💻</div>  
 
 <div align="center">
   <div align="center" style="background-image: url('https://github.com/chanakaeshan/ChanakaEshan/blob/main/banner.png'); background-size: cover; top-padding: -30px; border-radius: 10px;">
