@@ -56,7 +56,7 @@
 - 🐋 I'm a Volunteer at Microsoft Student Ambassador [Chanaka Abeyrathne](https://mvp.microsoft.com/en-US/studentambassadors/profile/6f7fce00-0a16-4939-8fcf-8124eb476750)
   
 
-- 📫 How to reach me: chanueshan291@gmail.com
+- 📫 How to reach me chanueshan291@gmail.com
   
 
 - ⚡ Fun fact: Talk is cheap, Show me the code.
