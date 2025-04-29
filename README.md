@@ -76,7 +76,9 @@
  </a>
 </p>
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chanakaeshan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+-->
 
 <br>
 
@@ -92,17 +94,4 @@
   </samp>
 </div>
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
-
-
-
-
-
-
-
-
-
-
-
-
-
 
