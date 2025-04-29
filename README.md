@@ -76,7 +76,7 @@
  </a>
 </p>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanakaeshan&show_icons=true&locale=en&layout=compact" alt="chanakaeshan" /></p>
 
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1023272534717775952?simple=true)
@@ -94,8 +94,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanakaeshan&show_icons=true&locale=en&layout=compact" alt="chanakaeshan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanakaeshan&show_icons=true&locale=en" alt="chanakaeshan" /></p>
 
 
 
