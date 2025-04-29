@@ -93,6 +93,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanakaeshan&show_icons=true&locale=en&layout=compact" alt="chanakaeshan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chanakaeshan&show_icons=true&locale=en" alt="chanakaeshan" /></p>
+
+
 
 
 
