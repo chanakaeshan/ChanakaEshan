@@ -29,7 +29,7 @@
 <div align='center'>
   <samp>
   <p> I'm Chanaka Eshan from Sri Lanka. <br>
-  Full-Stack Developer | MERN Stack | MEAN Stack | Web3 </p> </br>
+  Full-Stack Developer | MERN Stack | MEAN Stack | AI/ML | Web3 </p> </br>
   </samp>
 </div>
 
